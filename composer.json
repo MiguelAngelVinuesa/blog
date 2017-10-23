@@ -1,0 +1,23 @@
+{
+    "name": "cloudware-studio/blog",
+    "type": "library",
+    "description": "blog",
+    "homepage": "http://www.cloudware-studio.com",
+    "license": "FREE",
+    "keywords": ["laravel", "demo", "blog"],
+    "authors": [
+        {
+            "name": "miky",
+            "email": "miguelangel@cloudware-studio.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cloudware\\Calculator\\": "vendor/cloudware-studio/blog/src"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
