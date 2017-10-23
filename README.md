@@ -2,7 +2,7 @@
 
 Blog para laravel totalmente gratuito, fácli de instalar y fácil de usar.
 
-How Install:
+Instalacin:
 
 1- Instalación de laravel:
 
@@ -14,9 +14,9 @@ How Install:
 
 3- Descarga del paquete de cloudware-studio
 
-	composer require cloudware-studio/calculator:dev-stable 
+	composer require cloudware-studio/calculator:dev-master 
 	
-* probar si no funciona con :dev-master
+* probar si no funciona con :dev-stable
 
 4- Modificar archivo composer.json
 
