@@ -2,7 +2,7 @@
 
 Blog para laravel totalmente gratuito, fácli de instalar y fácil de usar.
 
-Instalacin:
+Manual de instalación:
 
 1- Instalación de laravel:
 
