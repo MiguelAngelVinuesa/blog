@@ -16,14 +16,14 @@ How Install:
 
 	composer require cloudware-studio/calculator:dev-stable 
 	
-(probar si no funciona con /dev-master)
+* probar si no funciona con :dev-master
 
 4- Modificar archivo composer.json
 
 	 "psr-4": {
-            	"App\\": "app/",
-	            "Cloudware\\Blog\\": "vendor/cloudware-studio/blog/src"
-        		}
+		"App\\": "app/",
+	    	"Cloudware\\Blog\\": "vendor/cloudware-studio/blog/src"
+		}
 
 * ejecutar tras modificar el composer.json: composer dump-autoload y composer update.
 
