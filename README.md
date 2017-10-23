@@ -22,7 +22,7 @@ How Install:
 	* ejecutar tras modificar el composer.json: composer dump-autoload y composer update.
 
 5- Añadir el provider en el array de providers en config/app.php
-	Cloudware\Calculator\CalculatorServiceProvider::class,
+	* Cloudware\Calculator\CalculatorServiceProvider::class,
 
 6- Publicar los archivos del vendor
 	php artisan vendor:publish
