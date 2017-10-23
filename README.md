@@ -1,6 +1,6 @@
 # Cloudware Studio Free Blog
 
-laravel free blog easy to install and easy to use
+Blog para laravel totalmente gratuito, fácli de instalar y fácil de usar.
 
 How Install:
 
@@ -43,4 +43,7 @@ How Install:
 
 	/blog
 
-(los modelos, las rutas y los controladores no es necesario crearlos, ya están en el componente, lo que si es necesario tener instalado el middleware auth ya que algunas de las rutas internas del componente requieren estar autenticado en la app) 
+*los modelos, las rutas y los controladores no es necesario crearlos, ya están en el componente, lo que si es necesario tener instalado el middleware auth ya que algunas de las rutas internas del componente requieren estar autenticado en la app.
+
+# Por favor, visitenos en www.cloudware-studio.com
+# Enjoy!! :)
